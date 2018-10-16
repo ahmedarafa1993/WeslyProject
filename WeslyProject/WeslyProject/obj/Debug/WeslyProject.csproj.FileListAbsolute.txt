@@ -1,0 +1,284 @@
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\ApplicationInsights.config
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\WeslyProject.dll.config
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\WeslyProject.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\WeslyProject.pdb
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\csc.exe
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\csc.exe.config
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\csc.rsp
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\csi.exe
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\csi.exe.config
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\csi.rsp
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.AppContext.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Console.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\vbc.exe
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\vbc.exe.config
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\vbc.rsp
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Antlr3.Runtime.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.AI.Web.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Newtonsoft.Json.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.Helpers.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.Mvc.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.Optimization.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.Razor.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.WebPages.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\WebGrease.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.Helpers.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.Mvc.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.Optimization.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.Razor.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.WebPages.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Antlr3.Runtime.pdb
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Newtonsoft.Json.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\Microsoft.AI.Web.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\obj\Debug\WeslyProject.csprojResolveAssemblyReference.cache
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\obj\Debug\WeslyProject.csproj.CoreCompileInputs.cache
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\obj\Debug\WeslyProject.csproj.CopyComplete
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\obj\Debug\WeslyProject.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\obj\Debug\WeslyProject.pdb
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\EntityFramework.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\EntityFramework.xml
+C:\Users\Edara IT 3\source\repos\WeslyProject\WeslyProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\ApplicationInsights.config
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\WeslyProject.dll.config
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\WeslyProject.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\WeslyProject.pdb
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csc.exe
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csc.exe.config
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csc.rsp
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csi.exe
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csi.exe.config
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csi.rsp
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.AppContext.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Console.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\vbc.exe
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\vbc.exe.config
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\vbc.rsp
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\EntityFramework.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.Web.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Helpers.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Mvc.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Optimization.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Razor.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\WebGrease.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\EntityFramework.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Helpers.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Mvc.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Optimization.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Razor.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.Web.xml
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\obj\Debug\WeslyProject.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\obj\Debug\WeslyProject.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\obj\Debug\WeslyProject.dll
+C:\Users\Ahmed Arafa\Desktop\WeslyProject\WeslyProject\WeslyProject\obj\Debug\WeslyProject.pdb
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\ApplicationInsights.config
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\WeslyProject.dll.config
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\WeslyProject.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\WeslyProject.pdb
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csc.exe
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csc.exe.config
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csc.rsp
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csi.exe
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csi.exe.config
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\csi.rsp
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.AppContext.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Collections.Immutable.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Console.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Diagnostics.Process.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.IO.Compression.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.IO.FileSystem.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.IO.Pipes.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.AccessControl.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Claims.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Threading.Thread.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.ValueTuple.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Xml.XPath.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\vbc.exe
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\vbc.exe.config
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\vbc.rsp
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\VBCSCompiler.exe
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\roslyn\VBCSCompiler.exe.config
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Antlr3.Runtime.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\EntityFramework.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\EntityFramework.SqlServer.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.DependencyCollector.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.Web.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.WindowsServer.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.ApplicationInsights.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.Web.Infrastructure.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Newtonsoft.Json.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Helpers.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Mvc.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Optimization.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Razor.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.Deployment.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.Razor.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\WebGrease.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\EntityFramework.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\EntityFramework.SqlServer.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Helpers.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Mvc.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Optimization.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.Razor.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.Deployment.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\System.Web.WebPages.Razor.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Antlr3.Runtime.pdb
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Newtonsoft.Json.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.ApplicationInsights.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.DependencyCollector.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.WindowsServer.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\bin\Microsoft.AI.Web.xml
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\obj\Debug\WeslyProject.csprojResolveAssemblyReference.cache
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\obj\Debug\WeslyProject.csproj.CoreCompileInputs.cache
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\obj\Debug\WeslyProject.csproj.CopyComplete
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\obj\Debug\WeslyProject.dll
+E:\ahmed arafa 's specials\wesly project\WeslyProject\WeslyProject\WeslyProject\obj\Debug\WeslyProject.pdb
